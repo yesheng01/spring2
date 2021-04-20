@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
-public class AccessingDataJpaApplication {
+public class AccessingDataJpaApplication  {
 
 	private static final Logger log = LoggerFactory.getLogger(AccessingDataJpaApplication.class);
 
